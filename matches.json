@@ -4,13 +4,13 @@
       "local": {
         "nome": "Maracanã",
         "imagem": "TODO" 
-    },
-    "mandante": {
+      },
+      "mandante": {
       "nome": "Brasil",
       "forca": 5,
       "imagem": "TODO"
-    },
-    "visitante": {
+      },
+      "visitante": {
       "nome": "Argentina",
       "forca": 5,
       "imagem": "TODO"
